@@ -18,10 +18,6 @@ This project started as a simple CRUD To-Do app and was upgraded into a fully au
 
 ---
 
-# 📸 Application Screenshots
-
-# 📸 Application Screenshots
-
 ## 🔐 Login Page
 
 ![Login Page](Assesst/login.png)
@@ -61,6 +57,11 @@ This project started as a simple CRUD To-Do app and was upgraded into a fully au
 ## ✅ Toggle Complete Task
 
 ![Toggle Complete Task](Assesst/toggle-task.png)
+
+---
+
+# 🚀 Features
+
 ## ✅ Core Features
 
 - Create tasks
@@ -166,17 +167,17 @@ Built using Tailwind CSS with:
 ```text
 todoproject/
 │
-├── images/
-│   ├── Login Page.png
-│   ├── Home Page.png
-│   ├── Create New Task.png
-│   ├── Update Task #1.png
-│   ├── Delete Task.png
-│   ├── Create Category.png
-│   └── Toggle Complete Task.png
+├── Assesst/
+│   ├── login.png
+│   ├── home.png
+│   ├── create-task.png
+│   ├── update-task.png
+│   ├── delete-task.png
+│   ├── create-category.png
+│   └── toggle-task.png
 │
 ├── manage.py
-├── db.sqlite3
+├── README.md
 │
 ├── todoproject/
 │   ├── settings.py
@@ -201,8 +202,6 @@ todoproject/
 │   ├── models.py
 │   ├── urls.py
 │   └── views.py
-│
-└── README.md
 ```
 
 ---
@@ -212,8 +211,8 @@ todoproject/
 ## 1️⃣ Clone Repository
 
 ```bash
-git clone <your-repository-url>
-cd todoproject
+git clone https://github.com/Hala-GHub/django-advanced-todo-app.git
+cd django-advanced-todo-app
 ```
 
 ---
@@ -412,12 +411,6 @@ Ensure this file exists:
 ```text
 todos/migrations/__init__.py
 ```
-
----
-
-## `IntegrityError: owner`
-
-Delete `db.sqlite3` and rerun migrations during development.
 
 ---
 
