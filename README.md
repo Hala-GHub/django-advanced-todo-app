@@ -18,50 +18,49 @@ This project started as a simple CRUD To-Do app and was upgraded into a fully au
 
 ---
 
+# 📸 Application Screenshots
+
+# 📸 Application Screenshots
+
 ## 🔐 Login Page
 
-![Login Page](images/Login%20Page.png)
+![Login Page](Assesst/login.png)
 
 ---
 
 ## 🏠 Home Page
 
-![Home Page](images/Home%20Page.png)
+![Home Page](Assesst/home.png)
 
 ---
 
 ## 📝 Create New Task
 
-![Create New Task](images/Create%20New%20Task.png)
+![Create New Task](Assesst/create-task.png)
 
 ---
 
-## ✏️ Update Task #1
+## ✏️ Update Task
 
-![Update Task #1](images/Update%20Task%20%231.png)
+![Update Task](Assesst/update-task.png)
 
 ---
 
 ## 🗑️ Delete Task
 
-![Delete Task](images/Delete%20Task.png)
+![Delete Task](Assesst/delete-task.png)
 
 ---
 
 ## 🏷️ Create Category
 
-![Create Category](images/Create%20Category.png)
+![Create Category](Assesst/create-category.png)
 
 ---
 
 ## ✅ Toggle Complete Task
 
-![Toggle Complete Task](Assesst\Toggle Complete Task.png)
-
----
-
-# 🚀 Features
-
+![Toggle Complete Task](Assesst/toggle-task.png)
 ## ✅ Core Features
 
 - Create tasks
